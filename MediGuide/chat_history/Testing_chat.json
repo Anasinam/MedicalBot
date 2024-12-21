@@ -1,0 +1,50 @@
+[
+    {
+        "role": "human",
+        "content": "what is Canker sore?"
+    },
+    {
+        "role": "AI",
+        "content": "Answer is not available in the context."
+    },
+    {
+        "role": "human",
+        "content": "Canker sore"
+    },
+    {
+        "role": "AI",
+        "content": "Answer is not available in the context"
+    },
+    {
+        "role": "human",
+        "content": "What is Paralysis"
+    },
+    {
+        "role": "AI",
+        "content": "Answer is not available in the context"
+    },
+    {
+        "role": "human",
+        "content": "What is Aneurysmectomy"
+    },
+    {
+        "role": "AI",
+        "content": ""
+    },
+    {
+        "role": "human",
+        "content": "Aneurysmectomy"
+    },
+    {
+        "role": "AI",
+        "content": ""
+    },
+    {
+        "role": "human",
+        "content": "What is Angina"
+    },
+    {
+        "role": "AI",
+        "content": "Angina is a pressing pain or sensation of heaviness, usually in the chest area under the breast bone (sternum). It occasionally is experienced in the shoulder, arm, neck, or jaw regions."
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "role": "human",
+        "content": "What is the biggest killer worldwide"
+    },
+    {
+        "role": "AI",
+        "content": "Heart and circulatory diseases are the world\u2019s biggest killers \u2013 in every recent year, bar the pandemic years of 2020  and 2021 , coronary heart disease was the single biggest killer globally, and stroke was the second biggest."
+    }
+]

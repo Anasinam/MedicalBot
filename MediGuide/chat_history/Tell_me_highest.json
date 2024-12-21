@@ -1,0 +1,10 @@
+[
+    {
+        "role": "human",
+        "content": "Tell me highest cardio vascular deaths in world"
+    },
+    {
+        "role": "AI",
+        "content": "Nauru (Micronesia) has the highest cardiovascular death rate in the world, with an age-standardized death rate of 748.3 per 100,000 people."
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "role": "human",
+        "content": "Tell me about Stroke"
+    },
+    {
+        "role": "AI",
+        "content": "    Stroke, also known as cerebrovascular disease (CVD), is the third most common killer globally, causing an estimated 7.3 million deaths in 2021. It occurs when the blood supply to a part of the brain is interrupted or reduced, depriving brain tissue of oxygen and nutrients. This can cause the affected brain tissue to die, leading to a range of symptoms, including sudden weakness or numbness on one side of the body, difficulty speaking or understanding speech, vision problems, dizziness, and loss of balance or coordination. Stroke can also lead to long-term disabilities, such as paralysis, speech problems, and memory loss. There are two main types of stroke: ischemic stroke, which is caused by a blockage in an artery leading to the brain, and hemorrhagic stroke, which is caused by a rupture of a blood vessel in the brain. Risk factors for stroke include high blood pressure, high cholesterol, diabetes, smoking, obesity, and atrial fibrillation. Stroke can be prevented by controlling these risk factors and making healthy lifestyle choices, such as eating a healthy diet, getting regular exercise, and quitting smoking."
+    }
+]

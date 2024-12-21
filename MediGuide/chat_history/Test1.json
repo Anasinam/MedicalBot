@@ -1,0 +1,42 @@
+[
+    {
+        "role": "human",
+        "content": "What are the medical dosorders during pregnancies"
+    },
+    {
+        "role": "AI",
+        "content": "Approximately 4 million births occur in the United States each year. A significant proportion of these are complicated by one or more medical disorders. Two decades ago, many medical disorders were contraindications to pregnancy. Advances in obstetrics, neonatology, obstetric anesthesiology, and medicine have increased the expectation that pregnancy will result in an excellent outcome for both mother and fetus despite most of these conditions. Successful pregnancy requires important physiologic adaptations, such as a marked increase in cardiac output. Medical problems that interfere with the physiologic adaptations of pregnancy increase the risk for poor pregnancy outcome; conversely, in some instances pregnancy may adversely impact an underlying medical disorder."
+    },
+    {
+        "role": "human",
+        "content": "Give me treatments"
+    },
+    {
+        "role": "AI",
+        "content": "    answer is not available in the context"
+    },
+    {
+        "role": "human",
+        "content": "What is cardiac disease?"
+    },
+    {
+        "role": "AI",
+        "content": "    Answer is not available in the context"
+    },
+    {
+        "role": "human",
+        "content": "What are ADOLESCENT HEALTH PROBLEMS . Keep it short"
+    },
+    {
+        "role": "AI",
+        "content": ""
+    },
+    {
+        "role": "human",
+        "content": "what are Adolescent Health Problems"
+    },
+    {
+        "role": "AI",
+        "content": "Adolescent health problems include:\n-Motor vehicle accidents\n-Homicide\n-Suicide\n-Sexually transmitted diseases (STDs)\n-Unwanted pregnancies\n-Substance abuse\n-Depression\n-Eating disorders"
+    }
+]

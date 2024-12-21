@@ -1,0 +1,10 @@
+[
+    {
+        "role": "human",
+        "content": "Who was the biggest killer worldwide"
+    },
+    {
+        "role": "AI",
+        "content": "Coronary heart disease was the biggest killer worldwide in 2021."
+    }
+]

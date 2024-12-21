@@ -1,0 +1,10 @@
+[
+    {
+        "role": "human",
+        "content": "What is Antigen"
+    },
+    {
+        "role": "AI",
+        "content": "foreign or self molecules that are recognized by the adaptive and innate immune systems resulting in innate immune cell triggering, T cell activation, and/or B cell antibody production."
+    }
+]

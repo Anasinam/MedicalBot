@@ -1,0 +1,10 @@
+[
+    {
+        "role": "human",
+        "content": "How many is stroke survivor in wolrd?"
+    },
+    {
+        "role": "AI",
+        "content": "There are an estimated 94 million stroke survivors worldwide."
+    }
+]

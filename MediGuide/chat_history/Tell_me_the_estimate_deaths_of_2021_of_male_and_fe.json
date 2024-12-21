@@ -1,0 +1,10 @@
+[
+    {
+        "role": "human",
+        "content": "Tell me the estimate deaths of 2021 of male and female"
+    },
+    {
+        "role": "AI",
+        "content": "In 2021, an estimated 10.5 million men and 9.6 million women died from heart and circulatory diseases globally."
+    }
+]

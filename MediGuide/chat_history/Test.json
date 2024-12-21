@@ -1,0 +1,10 @@
+[
+    {
+        "role": "human",
+        "content": "Tell me the CVD Deaths of 2021"
+    },
+    {
+        "role": "AI",
+        "content": "    Globally, heart and circulatory diseases killed an estimated 10.5 million men and 9.6 million women in 2021."
+    }
+]

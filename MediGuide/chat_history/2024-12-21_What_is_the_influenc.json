@@ -1,0 +1,26 @@
+[
+    {
+        "role": "human",
+        "content": "What is the influence of environmenral hazards on disease?"
+    },
+    {
+        "role": "AI",
+        "content": "    Sorry I am not able to answer this, please consult Doctor for this"
+    },
+    {
+        "role": "human",
+        "content": "What is the influence of environmental hazards on disease?"
+    },
+    {
+        "role": "AI",
+        "content": "    Sorry I am not able to answer this, please consult Doctor for this"
+    },
+    {
+        "role": "human",
+        "content": "What is Headache"
+    },
+    {
+        "role": "AI",
+        "content": "    Sorry I am not able to answer this, please consult Doctor for this"
+    }
+]
