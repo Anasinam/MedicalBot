@@ -354,6 +354,16 @@ def get_conversational_chain():
     prompt = PromptTemplate(template=prompt_template, input_variables=["context", "question"])
     return load_qa_chain(model, chain_type="stuff", prompt=prompt)
 
+# def initialize_vector_store():
+#     """Load the pre-trained vector store."""
+#     try:
+#         load_vector_store()  # Ensure this function points to your faiss_index loading logic
+#         st.session_state.vector_store_initialized = True
+#         print("Vector store initialized successfully.")
+#     except Exception as e:
+#         st.error("Error loading vector store. Ensure it has been created and is accessible.")
+#         print(f"Error: {e}")
+
 def initialize_vector_store():
     """Load the pre-trained vector store."""
     try:
@@ -361,7 +371,7 @@ def initialize_vector_store():
         st.session_state.vector_store_initialized = True
         print("Vector store initialized successfully.")
     except Exception as e:
-        st.error("Error loading vector store. Ensure it has been created and is accessible.")
+        st.error(f"Error loading vector store: {e}")
         print(f"Error: {e}")
 
 def user_input():
