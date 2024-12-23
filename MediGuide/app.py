@@ -386,7 +386,7 @@ def user_input():
 
     try:
         embeddings = GoogleGenerativeAIEmbeddings(model="models/embedding-001")
-        db = FAISS.load_local("C:/Chatbot/MediGuide/faiss_index", embeddings, allow_dangerous_deserialization=True)
+        db = FAISS.load_local("faiss_index", embeddings, allow_dangerous_deserialization=True)
         docs = db.similarity_search(user_question)
 
         chain = get_conversational_chain()
