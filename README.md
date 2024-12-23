@@ -1,4 +1,4 @@
-### MedicalBot
+# MedicalBot
 MedicalBot is an AI-driven chatbot designed to assist users with medical inquiries by providing accurate and timely information.
 
 ## Features
@@ -8,22 +8,22 @@ Medical Information Database: Access a comprehensive repository of medical knowl
 
 ## Installation
 
-# Clone the repository:
+### Clone the repository:
 
 git clone https://github.com/Anasinam/MedicalBot.git
 
-# Navigate to the project directory:
+### Navigate to the project directory:
 
 cd MedicalBot
 
-# Install the required dependencies:
+### Install the required dependencies:
 
 pip install -r requirements.txt
 
 
 ## Usage
 
-# Run the application:
+### Run the application:
 
 streamlit run app.py
 
